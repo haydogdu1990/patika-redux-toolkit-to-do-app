@@ -3,11 +3,9 @@ function Footer() {
     <footer className="info">
       <p>Click to edit a todo</p>
       <p>
-        Created by <a href="https://d12n.me/">Dmitry Sharabin</a>
+        Go to <a href="https://github.com/haydogdu1990/patika-redux-toolkit-to-do-app">GitHub Repositories</a>
       </p>
-      <p>
-        Part of <a href="http://todomvc.com">TodoMVC</a>
-      </p>
+    
     </footer>
   );
 }
